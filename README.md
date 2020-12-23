@@ -1,2 +1,2 @@
 ## Mobx studies 
-Inicial Mobx React studies
+Initial Mobx React studies
